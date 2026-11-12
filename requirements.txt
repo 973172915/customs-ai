@@ -1,0 +1,30 @@
+# Core
+pydantic>=2.6
+pydantic-settings>=2.2
+langgraph>=0.2
+langchain-core>=0.3
+
+# LLM (Ollama 本地推理)
+ollama>=0.3
+
+# RAG / 检索
+faiss-cpu>=1.8
+sentence-transformers>=3.0
+rank-bm25>=0.2
+
+# 文档解析
+PyMuPDF>=1.24
+python-docx>=1.1
+rapidocr-onnxruntime>=1.4
+
+# 数据处理
+pandas>=2.2
+PyYAML>=6.0
+
+# Web
+fastapi>=0.110
+uvicorn[standard]>=0.29
+gradio>=4.0
+
+# Utils
+tqdm>=4.66
