@@ -158,3 +158,6 @@ customs-ai/
 | LLM | Ollama + qwen2.5:7b | 本地离线，满足内网要求 |
 | PDF | PyMuPDF | 快速提取文字和表格 |
 | 编排 | LangGraph | 条件路由 + 可观测性 |
+
+项目运行截图
+![alt text](局部截取_20261112_105640.png)
